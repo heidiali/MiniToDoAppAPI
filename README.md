@@ -1,5 +1,5 @@
 # Mini ToDoApp API
-## CRUD ToDo app backend with C# and .NET
+### CRUD ToDo app backend with C# and .NET
 
 ## Table of contents
 * [General info](#general-info)
@@ -14,13 +14,18 @@ The project is a simple CRUD ToDo app backend and goes together with the frontEn
 ## Technologies
 
 Install .NET Framework 4.6.1 or higher
-Install the latest version of Visual Studio 2017 from here
+Install the latest version of Visual Studio 2017
 SQL Server 2008 or above
 
 ## Setup
 
-To run this project, install it locally by cloning the project :
-`git clone https://github.com/heidiali/MiniToDoAppAPI.git`
+Clone the repo in your terminal by clicking the green clone or download button at the top right and copying the url.
+
+In your terminal, type: 
+`git clone URL`
+Replace URL with the url you copied.
+Hit enter.
+This will copy all the files from this repo down to your computer.
 
 Or download the zip file and extract to chosen location. 
 
