@@ -1,5 +1,5 @@
 # Mini ToDoApp API
-### CRUD ToDo app backend with C# and .NET
+## CRUD ToDo app backend with C# and .NET
 
 ## Table of contents
 * [General info](#general-info)
